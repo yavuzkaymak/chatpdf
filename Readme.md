@@ -1,4 +1,5 @@
-# [A Simple Chatbot for your PDF](https://github.com/yavuzkaymak/chatpdf)
+# A Simple Chatbot for your PDF  
+## [Show me the code](https://github.com/yavuzkaymak/chatpdf)
 
 ## User Interface
 We are using streamlit for the UI. Create a .streamlit folder and a secrets.toml file to store your secrets.
