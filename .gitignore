@@ -1,0 +1,7 @@
+.streamlit
+.venv
+__pycache__
+.vscode
+.env
+.venv
+with-openai.py 
